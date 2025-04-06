@@ -1,5 +1,4 @@
 fn main() {
-    println!("Hello, world!");
     let days = [
         "twelfth", "eleventh", "tenth", "ninth", "eighth", "seventh", "sixth", "fifth", "fourth",
         "third", "second", "first",
